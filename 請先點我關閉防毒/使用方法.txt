@@ -1,3 +1,0 @@
-如何關閉防毒?
-1.開啟dfControl.exe
-2.點擊Disable Windows Defender
